@@ -12,3 +12,5 @@ print(f"each student get {applesget}")
 print(f"the remaining apples are {remainingapples}")
 
 
+don't change any thing
+apple in bracket
