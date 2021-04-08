@@ -1,16 +1,11 @@
-for i in range(0,6):
-    i+=1
-    if i==3:
-        continue
-    print(i)
-
-
-
-
-    n = 5
-    i = 0
-    while i <= n:
-        i+=1
-        if i==3:
-            continue
-        print(i)
+def add():
+    print("function start")
+    a = int(input("enter first number: "))
+    b = int(input("enter second number:"))
+    c = a+b
+    print(c)
+    print("function end")
+print("main start")
+print("function is calling")
+add()
+print("program end")
