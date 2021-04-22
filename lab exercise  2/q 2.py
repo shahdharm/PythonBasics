@@ -9,8 +9,5 @@ sub_4 = int(input("enter the mark:"))
 total = sub_1+sub_2+sub_3+sub_4
 percentage = total//4
 print(percentage)
-if percentage is more ==70:
+if percentage is==>70:
     print("distiction:")
-
-
-
