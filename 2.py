@@ -1,8 +1,5 @@
-import random
-number = random.randint(1,10)
-
-    while true:
-    guess = int(input("please guess the number"))
-    if guess==number:
-    print("la badhai xa")
-        
+def sum(list):
+    if len(list)==0:
+        return 0
+    else:
+        return list[0]+sum(list(list[1:]))
