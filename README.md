@@ -3,7 +3,18 @@
 
 
 
-simple calculator python developed using python funcion and tkinter.tkinter is gui library in python.tkinter provide fast and easy way to create a gui application and it's also provide powerful object interface to the TK GUI toolkit.
+simple calculator python developed using python funcion and tkinter.tkinter is gui library in python.tkinter provide fast and easy way to create a gui application and it's also provide powerful object interface to the TK GUI toolkit.  
+
+photo of simple calculator
+
+
+
+
+![Screenshot 2021-04-23 213742](https://user-images.githubusercontent.com/79898206/115897832-935a4a00-a47c-11eb-990c-d48e0baa59bc.png)
+
+
+
+
 
 TOOLS USED
 
